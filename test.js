@@ -186,7 +186,7 @@ function showTestResults() {
 function resetTest() {
   // レベル選択をリセット
   var levelSelect = document.getElementById("levelSelect");
-  levelSelect.innerHTML = '<option value="初級" selected>初級</option><option value="中級">中級</option><option value="上級">上級</option>';
+  levelSelect.innerHTML = '<option value="beginner" selected>初級</option><option value="intermediate">中級</option><option value="advanced">上級</option>';
 
   // テスト結果をリセット
   wordIndex = 0;
@@ -209,7 +209,7 @@ function resetTest() {
   var optionsContainer = document.getElementById("optionsContainer");
   optionsContainer.innerHTML = "";
 
-  // テスト結果を表示するコンテナを非表示にする
+  // テスト結果を表示するコンテナをクリアする
   var resultContainer = document.getElementById("resultContainer");
   resultContainer.innerHTML = "";
 }
@@ -225,7 +225,7 @@ function restartTest() {
   // テストの問題文を表示する
   showQuestion();
 
-  // テスト結果を表示するコンテナを表示する
+  // テスト結果を表示するコンテナをクリアする
   var resultContainer = document.getElementById("resultContainer");
   resultContainer.innerHTML = "";
 }
