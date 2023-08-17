@@ -1,0 +1,53 @@
+[
+    {
+      "word": "technology",
+      "answer": "技術",
+      "options": ["技術", "知識", "経験"]
+    },
+    {
+      "word": "globalization",
+      "answer": "グローバリゼーション",
+      "options": ["グローバリゼーション", "国際化", "地域化"]
+    },
+    {
+      "word": "innovation",
+      "answer": "イノベーション",
+      "options": ["イノベーション", "改革", "革新"]
+    },
+    {
+      "word": "sustainability",
+      "answer": "持続可能性",
+      "options": ["持続可能性", "成長性", "安定性"]
+    },
+    {
+      "word": "artificial intelligence",
+      "answer": "人工知能",
+      "options": ["人工知能", "機械学習", "ロボット"]
+    },
+    {
+      "word": "entrepreneurship",
+      "answer": "起業精神",
+      "options": ["起業精神", "ビジネス", "経済"]
+    },
+    {
+      "word": "society",
+      "answer": "社会",
+      "options": ["社会", "文化", "政府"]
+    },
+    {
+      "word": "environment",
+      "answer": "環境",
+      "options": ["環境", "自然", "気候"]
+    },
+    {
+      "word": "equality",
+      "answer": "平等",
+      "options": ["平等", "公正", "差別"]
+    },
+    {
+      "word": "communication",
+      "answer": "コミュニケーション",
+      "options": ["コミュニケーション", "会話", "メッセージ"]
+    }
+]
+  

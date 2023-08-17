@@ -1,0 +1,53 @@
+[
+    {
+      "word": "computer",
+      "answer": "コンピュータ",
+      "options": ["コンピュータ", "スマートフォン", "テレビ"]
+    },
+    {
+      "word": "music",
+      "answer": "音楽",
+      "options": ["音楽", "映画", "本"]
+    },
+    {
+      "word": "guitar",
+      "answer": "ギター",
+      "options": ["ギター", "ピアノ", "ドラム"]
+    },
+    {
+      "word": "language",
+      "answer": "言語",
+      "options": ["言語", "国", "地図"]
+    },
+    {
+      "word": "travel",
+      "answer": "旅行",
+      "options": ["旅行", "仕事", "勉強"]
+    },
+    {
+      "word": "restaurant",
+      "answer": "レストラン",
+      "options": ["レストラン", "カフェ", "居酒屋"]
+    },
+    {
+      "word": "movie",
+      "answer": "映画",
+      "options": ["映画", "音楽", "本"]
+    },
+    {
+      "word": "camera",
+      "answer": "カメラ",
+      "options": ["カメラ", "スマートフォン", "パソコン"]
+    },
+    {
+      "word": "university",
+      "answer": "大学",
+      "options": ["大学", "学校", "図書館"]
+    },
+    {
+      "word": "mountain",
+      "answer": "山",
+      "options": ["山", "川", "海"]
+    }
+]
+  

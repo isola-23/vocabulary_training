@@ -1,0 +1,53 @@
+[
+    {
+      "word": "apple",
+      "answer": "りんご",
+      "options": ["りんご", "バナナ", "オレンジ"]
+    },
+    {
+      "word": "cat",
+      "answer": "猫",
+      "options": ["猫", "犬", "魚"]
+    },
+    {
+      "word": "book",
+      "answer": "本",
+      "options": ["本", "鉛筆", "机"]
+    },
+    {
+      "word": "car",
+      "answer": "車",
+      "options": ["車", "自転車", "電車"]
+    },
+    {
+      "word": "sun",
+      "answer": "太陽",
+      "options": ["太陽", "月", "星"]
+    },
+    {
+      "word": "dog",
+      "answer": "犬",
+      "options": ["犬", "猫", "鳥"]
+    },
+    {
+      "word": "table",
+      "answer": "テーブル",
+      "options": ["テーブル", "イス", "ソファ"]
+    },
+    {
+      "word": "flower",
+      "answer": "花",
+      "options": ["花", "木", "草"]
+    },
+    {
+      "word": "banana",
+      "answer": "バナナ",
+      "options": ["バナナ", "りんご", "オレンジ"]
+    },
+    {
+      "word": "tree",
+      "answer": "木",
+      "options": ["木", "花", "草"]
+    }
+]
+  

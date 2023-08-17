@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>英単語テスト</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>英単語テスト</h1>
+
+  <div id="levelSelection">
+    <label for="levelSelect">レベル選択：</label>
+    <select id="levelSelect">
+      <option value="beginner">初級</option>
+      <option value="intermediate">中級</option>
+      <option value="advanced">上級</option>
+    </select>
+    <button id="startButton">テスト開始</button>
+  </div>
+
+  <div id="testContainer">
+    <div id="questionContainer"></div>
+    <div id="optionsContainer"></div>
+    <div id="resultContainer"></div>
+  </div>
+
+  <script src="test.js"></script>
+</body>
+</html>
